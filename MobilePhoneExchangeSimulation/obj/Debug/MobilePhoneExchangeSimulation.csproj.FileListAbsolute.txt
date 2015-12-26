@@ -1,0 +1,13 @@
+C:\Users\RAJ\Desktop\PBXEmulator\src\PBXEmulator\bin\Debug\PBXEmulator.exe
+C:\Users\RAJ\Desktop\PBXEmulator\src\PBXEmulator\bin\Debug\PBXEmulator.pdb
+C:\Users\RAJ\Desktop\PBXEmulator\src\PBXEmulator\obj\Debug\MobilePhoneExchangeSimulation.csprojResolveAssemblyReference.cache
+C:\Users\RAJ\Desktop\PBXEmulator\src\PBXEmulator\obj\Debug\PBXEmulator.Controls.PhoneButton.resources
+C:\Users\RAJ\Desktop\PBXEmulator\src\PBXEmulator\obj\Debug\PBXEmulator.Controls.PhoneControl.resources
+C:\Users\RAJ\Desktop\PBXEmulator\src\PBXEmulator\obj\Debug\PBXEmulator.Forms.AddPhoneForm.resources
+C:\Users\RAJ\Desktop\PBXEmulator\src\PBXEmulator\obj\Debug\PBXEmulator.Forms.ExchangeForm.resources
+C:\Users\RAJ\Desktop\PBXEmulator\src\PBXEmulator\obj\Debug\PBXEmulator.Forms.PhoneForm.resources
+C:\Users\RAJ\Desktop\PBXEmulator\src\PBXEmulator\obj\Debug\PBXEmulator.Forms.SMSForm.resources
+C:\Users\RAJ\Desktop\PBXEmulator\src\PBXEmulator\obj\Debug\PBXEmulator.Properties.Resources.resources
+C:\Users\RAJ\Desktop\PBXEmulator\src\PBXEmulator\obj\Debug\MobilePhoneExchangeSimulation.csproj.GenerateResource.Cache
+C:\Users\RAJ\Desktop\PBXEmulator\src\PBXEmulator\obj\Debug\PBXEmulator.exe
+C:\Users\RAJ\Desktop\PBXEmulator\src\PBXEmulator\obj\Debug\PBXEmulator.pdb
